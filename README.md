@@ -1,2 +1,2 @@
 # atelierabiscos
-Site da Loja Ateliê Rabiscos
+Website from the Decor Store: Ateliê Rabiscos
