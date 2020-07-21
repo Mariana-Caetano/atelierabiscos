@@ -1,2 +1,2 @@
 # atelierabiscos
-Website from the Decor Store: Ateliê Rabiscos
+Website for the Decor Store: Ateliê Rabiscos
